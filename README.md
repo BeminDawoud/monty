@@ -13,4 +13,4 @@ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 
 [Bemin Dawoud](https://github.com/BeminDawoud)
 
-[Mohamed ALshayeb](https://github.com/mohamed)
+[Mohamed ALshayeb](https://github.com/Mohamed-eg)
